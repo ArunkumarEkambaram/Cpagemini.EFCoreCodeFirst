@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cpagemini.EFCoreCodeFirst", "Cpagemini.EFCoreCodeFirst\Cpagemini.EFCoreCodeFirst.csproj", "{2631EFEC-701E-479A-A364-314C457D51DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.EFCoreDataFirst", "Capgemini.EFCoreDataFirst\Capgemini.EFCoreDataFirst.csproj", "{AFED5840-BFF3-45CE-BD55-5D0D4FB06085}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2631EFEC-701E-479A-A364-314C457D51DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2631EFEC-701E-479A-A364-314C457D51DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2631EFEC-701E-479A-A364-314C457D51DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFED5840-BFF3-45CE-BD55-5D0D4FB06085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFED5840-BFF3-45CE-BD55-5D0D4FB06085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFED5840-BFF3-45CE-BD55-5D0D4FB06085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFED5840-BFF3-45CE-BD55-5D0D4FB06085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
