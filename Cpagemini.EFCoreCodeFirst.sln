@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cpagemini.EFCoreCodeFirst", "Cpagemini.EFCoreCodeFirst\Cpagemini.EFCoreCodeFirst.csproj", "{2631EFEC-701E-479A-A364-314C457D51DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2631EFEC-701E-479A-A364-314C457D51DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2631EFEC-701E-479A-A364-314C457D51DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2631EFEC-701E-479A-A364-314C457D51DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2631EFEC-701E-479A-A364-314C457D51DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EF8903-5BB9-407B-BF70-E33E2A664055}
+	EndGlobalSection
+EndGlobal
